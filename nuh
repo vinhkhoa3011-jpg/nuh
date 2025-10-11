@@ -46,7 +46,7 @@ RainbowSpeed = 1
 },
 Settings = {
 Enabled = true,
-TeamCheck = true,
+TeamCheck = false,
 AliveCheck = true,
 WallCheck = true,
 OffsetToMoveDirection = false,
