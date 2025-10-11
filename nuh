@@ -50,7 +50,7 @@ TeamCheck = false,
 AliveCheck = true,
 WallCheck = true,
 OffsetToMoveDirection = false,
-OffsetIncrement = 5,
+OffsetIncrement = 15,
 Sensitivity = 0.07,
 Sensitivity2 = 3,
 LockMode = 1,
@@ -58,7 +58,7 @@ LockPart = "Head",
 TriggerKey = Enum.UserInputType.MouseButton2,
 ExtraKey = Enum.KeyCode.V,
 Toggle = false,
-Smoothness = 50 -- Added Smoothness setting
+Smoothness = 0.08 -- Added Smoothness setting
 },
 FOVSettings = {
 Enabled = false,
