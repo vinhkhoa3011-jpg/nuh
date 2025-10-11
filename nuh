@@ -56,7 +56,7 @@ Sensitivity2 = 3,
 LockMode = 1,
 LockPart = "Head",
 TriggerKey = Enum.UserInputType.MouseButton2,
-ExtraKey = Enum.KeyCode.F,
+ExtraKey = Enum.KeyCode.V,
 Toggle = false,
 Smoothness = 0.08 -- Added Smoothness setting
 },
