@@ -51,14 +51,14 @@ AliveCheck = true,
 WallCheck = true,
 OffsetToMoveDirection = false,
 OffsetIncrement = 15,
-Sensitivity = 0.07,
+Sensitivity = 0.9,
 Sensitivity2 = 3,
 LockMode = 1,
 LockPart = "Head",
 TriggerKey = Enum.UserInputType.MouseButton2,
 ExtraKey = Enum.KeyCode.V,
 Toggle = false,
-Smoothness = 0.25 -- Added Smoothness setting
+Smoothness = 0.5 -- Added Smoothness setting
 },
 FOVSettings = {
 Enabled = false,
