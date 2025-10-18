@@ -58,8 +58,7 @@ LockPart = "Head",
 TriggerKey = Enum.UserInputType.MouseButton2,
 ExtraKey = Enum.KeyCode.V,
 Toggle = false,
-Smoothness = true
-SmoothnessAmount = 0.08
+Smoothness = 0.08
 },
 FOVSettings = {
 Enabled = false,
